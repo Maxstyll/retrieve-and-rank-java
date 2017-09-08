@@ -159,8 +159,8 @@ Ensure that you have the following prerequisites before you start:
 
 
 ## Reference information
-* Retrieve and Rank service [documentation](http://www.ibm.com/watson/developercloud/doc/retrieve-rank/)
-* [Configuring](http://www.ibm.com/watson/developercloud/doc/retrieve-rank/configure.shtml) the Retrieve and Rank service
+* Retrieve and Rank service [documentation](https://console.bluemix.net/docs/services/retrieve-and-rank/index.html#overview)
+* [Configuring](https://console.bluemix.net/docs/services/retrieve-and-rank/configure.html#top) the Retrieve and Rank service
 * Retrieve and Rank [API reference](http://www.ibm.com/watson/developercloud/retrieve-and-rank/api/v1/)
 
 ## Open Source @ IBM
@@ -170,7 +170,7 @@ Ensure that you have the following prerequisites before you start:
 
 [sign_up]: https://console.ng.bluemix.net/registration/
 [cloud_foundry]: https://github.com/cloudfoundry/cli
-[service_url]: http://www.ibm.com/watson/developercloud/retrieve-and-rank.html
+[service_url]: https://www.ibm.com/watson/services/retrieve-and-rank/
 [sign_up]: https://console.ng.bluemix.net/registration/
 [liberty]: https://developer.ibm.com/wasdev/downloads/
 [liberty_mac]: http://www.stormacq.com/how-to-install-websphere-8-5-liberty-profile-on-mac/
