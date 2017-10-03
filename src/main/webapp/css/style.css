@@ -568,6 +568,10 @@ body {
 .base--tr:nth-of-type(even), .base--STYLED tr:nth-of-type(even) {
   background-color: #ececec;
 }
+.deprecation--notice {
+  color: red;
+  font-weight: bold;
+}
 .loader {
   width: 100%;
 }
